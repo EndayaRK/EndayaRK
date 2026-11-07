@@ -80,8 +80,8 @@ Public market marketplace app — stall-level pricing & product pre-ordering. *(
 </td>
 <td width="50%" valign="top">
 
-### ➕ Your Next Project
-This spot's reserved for whatever you build next.
+### My Next Project
+Loading...
 
 `Open` `For` `Ideas`
 
