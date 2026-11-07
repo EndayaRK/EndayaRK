@@ -83,9 +83,7 @@ Public market marketplace app — stall-level pricing & product pre-ordering. *(
 ### My Next Project
 Loading...
 
-`Open` `For` `Ideas`
 
-💡 Add it here once it's live
 
 </td>
 </tr>
