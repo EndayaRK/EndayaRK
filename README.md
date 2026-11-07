@@ -91,20 +91,7 @@ Loading...
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EndayaRK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a855f7&text_color=c9d1d9"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=EndayaRK&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=a855f7&fire=a855f7&currStreakLabel=38bdf8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndayaRK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9"/>
-</div>
-
-> 💡 These cards are rendered live by a free public service each time someone loads your profile. If one ever shows broken, it's almost always a temporary rate-limit on their end — refresh and it'll come back. No action needed on your side.
-
-<br/>
 
 ## 🤝 Let's Connect
 
