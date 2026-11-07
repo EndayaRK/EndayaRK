@@ -1,93 +1,131 @@
-<h1 align="center">Hi 👋, I'm Rhon Kelly Endaya</h1>
-<h3 align="center">BS Information Technology Student | Aspiring Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/rhon-kelly-endaya-a91782391"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:endayarhonkelly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:a855f7&height=200&section=header&text=Rhon%20Kelly%20Endaya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/EndayaRK">
+  <img src="https://readme-typing-svg.demolab.com/?lines=BS+Information+Technology+Student;Full-Stack+Developer+in+Training;React+%7C+TypeScript+%7C+Node.js+%7C+PHP;Open+to+IT+Internship+Opportunities!&font=Fira+Code&center=true&width=550&height=45&color=38bdf8&vCenter=true&size=22" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://linkedin.com/in/rhon-kelly-endaya-a91782391"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:endayarhonkelly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/EndayaRK"><img src="https://img.shields.io/github/followers/EndayaRK?label=Followers&style=for-the-badge&color=38bdf8&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=EndayaRK&style=for-the-badge&color=a855f7&label=Profile+Views"/>
 </p>
 
----
+</div>
 
-### 🚀 About Me
-- 🎓 4th-year **BS Information Technology** student at **De La Salle Lipa**, majoring in System Development
-- 💻 Building full-stack web apps independently, and collaborating on mobile & web projects
-- 🌱 Currently sharpening **React, TypeScript, Node.js, and Express.js**
-- 🏅 Dean's Lister (Third Honor) — AY 2023-2024 & AY 2024-2025
-- 📫 Reach me at **endayarhonkelly@gmail.com**
+<br/>
 
----
+## 🚀 About Me
 
-### 🛠️ Tech Stack
+```yaml
+student:
+  school: "De La Salle Lipa"
+  program: "BS Information Technology — Major in System Development"
+  year: "4th Year"
+  honors: ["Dean's Lister (Third Honor) — AY 2023-2024 & AY 2024-2025"]
+  org: "Junior Philippine Computer Society (JPCS), DLSL Chapter — since 2023"
+currently:
+  - "🌱 Sharpening React, TypeScript, Node.js, and Express.js"
+  - "🎯 Seeking an IT internship to build real-world software"
+  - "📜 Certified in Cisco Python Essentials 1 & 2"
+```
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+## 🛠️ Tech Stack
 
-**Databases & Platforms**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php,mysql,postgres,mongodb,react,nodejs,express,fastapi,tailwind,supabase,git,github,vscode,postman,vercel,linux&theme=dark" />
+</div>
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<br/>
 
----
+## 📌 Featured Projects
 
-### 📌 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Event Tracker](https://github.com/EndayaRK)** — Full-stack event management platform
-React · TypeScript · Vite · Node.js · Express.js · MongoDB Atlas · JWT · TanStack Query · Zustand
-Lets users create accounts, browse events, and manage registrations, deployed live on Vercel.
+### 🗓️ [Event Tracker](https://github.com/EndayaRK)
+Full-stack event management platform — browse events, register, and manage accounts.
 
-**Auto Avenue Inventory Management System** — Inventory & supplier portal
-PHP · MySQL · RESTful Workflows
-Role-based auth, automated reorder thresholds, and reporting that cut auditing time and prevented stockouts.
+`React` `TypeScript` `Vite` `Node.js` `Express` `MongoDB Atlas` `JWT` `TanStack Query` `Zustand` `Zod`
 
-**PalengkeHub** — Public market marketplace (capstone project)
-React Native · Expo · Supabase
-Designed the login flow and admin dashboard for stall-level price visibility and product pre-ordering.
+🚀 Deployed live on Vercel
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏆 Certifications
-- Cisco Networking Academy — Python Essentials 1 & 2
+### 📦 Auto Avenue IMS
+Inventory tracking & supplier portal with role-based auth and automated reorder alerts.
 
-### 🤝 Let's Connect
-Open to **IT internship** opportunities — feel free to reach out!
+`PHP` `MySQL` `RESTful Workflows`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EndayaRK&show_icons=true&theme=default" alt="Rhon's GitHub Stats" />
-</p>## Hi there 👋
+📉 Cut auditing time & prevented stockouts
 
-<!--
-**EndayaRK/EndayaRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Here are some ideas to get you started:
+### 🛒 PalengkeHub
+Public market marketplace app — stall-level pricing & product pre-ordering. *(Capstone project)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`React Native` `Expo` `Supabase`
+
+🎨 Designed login flow & admin dashboard
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ Your Next Project
+This spot's reserved for whatever you build next.
+
+`Open` `For` `Ideas`
+
+💡 Add it here once it's live
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EndayaRK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a855f7&text_color=c9d1d9"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EndayaRK&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=a855f7&fire=a855f7&currStreakLabel=38bdf8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndayaRK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EndayaRK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38bdf8&line=a855f7&point=ffffff" width="95%"/>
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EndayaRK&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm actively looking for an **IT internship** — let's talk tech, collaborate on a project, or just say hi!
+
+<a href="mailto:endayarhonkelly@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-38bdf8?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:38bdf8&height=100&section=footer" width="100%"/>
+
+</div>
